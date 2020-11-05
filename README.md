@@ -2,7 +2,7 @@
 
 ## Summary
 
-Super simple game that will substitute multiples of 3 and 5 for fizz an buzz respectily, or fizzbuzz for multiples of the two
+* Super simple game that will substitute multiples of three and five for fizz and buzz respectfully, and fizzbuzz for multiples of the two.
 
 ## Tasks
 
