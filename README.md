@@ -13,5 +13,5 @@
 * For numbers which are multiples of both three and five print "FizzBuzz".
 
 **Extra:**
-* make a new fizzbuzz file and make it functional
-* make it so we we can decide which numbers to substitute for fizz and buzz using functions
+* Make a new fizzbuzz file and make it functional
+* Make it so we we can decide which numbers to substitute for fizz and buzz using functions
